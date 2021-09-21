@@ -1,0 +1,6 @@
+print("Area of the circle ")
+rad = float(input("Enter the value of rad: "))
+print(rad)
+print(type(rad))
+area = 3.14*(rad**2)
+print(area)
