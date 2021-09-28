@@ -1,7 +1,7 @@
 list_1 = []
 x=0
 print("Input number of elements in the list: ")
-n=int(input())
+n=int(input()) 
 for i in range(0,n):
     print("Enter element",i+1,end=": ")
     element=int(input())
